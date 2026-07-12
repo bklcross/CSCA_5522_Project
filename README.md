@@ -32,3 +32,10 @@ The `outputs/` directory contains:
 - `model_results.csv`
 - `confusion_matrix.png`
 - `feature_importance.csv` and `.png`
+- `final_model_results.csv`
+- `cross_validation_results.csv`
+- `tuning_results.txt`
+- `subgroup_results.csv`
+- `final_confusion_matrix.png`
+- `final_feature_importance.png`
+- `final_summary.txt`
